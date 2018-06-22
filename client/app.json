@@ -5,22 +5,22 @@
   ],
   "window": {
     "navigationBarBackgroundColor": "#eee",
-    "navigationBarTextStyle": "#fff",
+    "navigationBarTextStyle": "#666",
     "navigationBarTitleText": "标题",
     "navigationStyle": "custom",
-    "backgroundColor": "#fff",
-    "backgroundTextStyle": "light",
-    "backgroundColorTop": "#fff",
-    "backgroundColorBottom": "#fff",
+    "backgroundColor": "#8ca77c",
+    "backgroundTextStyle": "dark",
+    "backgroundColorTop": "#FFBBFF",
+    "backgroundColorBottom": "#8ca77c",
     "enablePullDownRefresh": true,
     "onReachBottomDistance": "20"
   },
   "tabBar": {
-    "color": "#fff",
-    "selectedColor": "#000",
-    "backgroundColor": "#eee",
-    "borderStyle": "white",
-    "position": "bottom",
+    "color": "#666",
+    "selectedColor": "#fff",
+    "backgroundColor": "#8ca77c",
+    "borderStyle": "black",
+    "position": "top",
     "list": [
       {
         "iconPath": "",
@@ -32,7 +32,7 @@
         "iconPath": "",
         "selectedIconPath": "",
         "pagePath": "pages/new/new",
-        "text": "首页"
+        "text": "新建"
       }
     ]
   },
