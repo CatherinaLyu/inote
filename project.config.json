@@ -1,0 +1,17 @@
+{
+  "client": "./client",
+  "svr": "./server",
+  "miniprogramRoot": "./client",
+  "qcloudRoot": "./server",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "wxa2e1b01d1b1c8389",
+  "projectname": "inote",
+  "libVersion": "1.0.0",
+  "condition": {}
+}
